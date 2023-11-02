@@ -5,20 +5,13 @@
 <img align="right" alt="Coding" width="400"  src="https://c.tenor.com/yAZPoxFg7O4AAAAd/naruto-homework.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh" /> </p>
 
-- 🔭 I’m currently working on   **improving "my portfolio"**
+- 🔭 I’m currently working on   **improving my 'Skills'**
 
-- 🌱 I’m currently learning     **MAD,Web development,Three.js,etc.**
-
-- 🛒 I'm also a freelancer in   [Fiverr,Upwork. Let's work together](https://www.fiverr.com/balajiviswa?up_rollout=true)
-
-- 📙 My present basic portfolio  [https://mbalajiviswanadh.github.io/myportfolio/index.html](https://mbalajiviswanadh.github.io/myportfolio/index.html)
-
-- 💬 Ask me about                **Anime🎭,CSS,HTML,etc..**
+- 🌱 I’m currently learning     **Few Languages**
 
 - 📫 How to reach me             **madhavareddybalajiviswanadh@gmail.com**
 
-- ⚡ Fun fact                    **we can use vscode.dev for online compiler.**
-<h3 align="left"> <strong>"Intersects" </strong> are watching Anime, playing games, Designing works and more..😁</h3>
+- ⚡ Fun fact                    **I like both Anime and K-Drama**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mb_viswanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mb_viswanadh" height="30" width="40" /></a>
