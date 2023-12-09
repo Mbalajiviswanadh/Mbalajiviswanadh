@@ -1,4 +1,4 @@
- <img src="https://wallpaperaccess.com/full/647786.gif" width="10000" height="350" /> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fstudio-ghibli-gif-26229127&psig=AOvVaw04gCPbd3-96NsdArXxUB3z&ust=1702194766908000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDLourvgYMDFQAAAAAdAAAAABAj" width="10000" height="350" /> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=9C14E4&background=FCFCFF00&width=450&lines=Hi...%F0%9F%91%8Bthere%2C+balaji++here..;Thank+you+%F0%9F%98%8Afor+visiting+.." alt="Typing SVG" /></a>
 <h1 align="left">Hi 👋, I'm M.BALAJI VISWANADH</h1>
 <h3 align="left">An enthusiastic learner🤸‍♀️ | Student at VIT-AP🧑 | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
