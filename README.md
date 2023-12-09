@@ -1,4 +1,4 @@
- <img src="https://media.tenor.com/3-UjQHHYyJ0AAAAC/studio-ghibli.gif" width="10000" height="350" /> 
+ <img src="https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif" width="10000" height="350" /> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=9C14E4&background=FCFCFF00&width=450&lines=Hi...%F0%9F%91%8Bthere%2C+balaji++here..;Thank+you+%F0%9F%98%8Afor+visiting+.." alt="Typing SVG" /></a>
 <h1 align="left">Hi 👋, I'm M.BALAJI VISWANADH</h1>
 <h3 align="left">An enthusiastic learner🤸‍♀️ | Student at VIT-AP🧑 | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
