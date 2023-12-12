@@ -1,7 +1,7 @@
  <img src="https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif" width="10000" height="350" /> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=9C14E4&background=FCFCFF00&width=450&lines=Hi...%F0%9F%91%8Bthere%2C+balaji++here..;Thank+you+%F0%9F%98%8Afor+visiting+.." alt="Typing SVG" /></a>
 <h1 align="left">Hi 👋, I'm M.BALAJI VISWANADH</h1>
-<h3 align="left">An enthusiastic learner🤸‍♀️ | Student at VIT-AP🧑 | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
+<h3 align="left">An enthusiastic learner🤸‍♀️ | Student at VIT-AP | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
 <img align="right" alt="Coding" width="400"  src="https://c.tenor.com/yAZPoxFg7O4AAAAd/naruto-homework.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh" /> </p>
 
@@ -9,15 +9,18 @@
 
 - 🌱 I’m currently learning     **Few Languages**
 
-- 📫 How to reach me             **madhavareddybalajiviswanadh@gmail.com** || **https://bento.me/mbviswanadh**
+- 📫 How to reach me            **madhavareddybalajiviswanadh@gmail.com**
 
-- ⚡ Fun fact                    **I like to watch both Anime and K-Drama**
+- ⚡ Fun fact                    **I like to take pictures**
 <h3 align="left">Connect with me:</h3>
+- 🔗
 <p align="left">
 <a href="https://twitter.com/mb_viswanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mb_viswanadh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balaji visanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji visanadh" height="30" width="40" /></a>
 <a href="https://instagram.com/mb_viswanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mb_viswanadh" height="30" width="40" /></a>
 <a href="https://discord.gg/bunty </>#6750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bunty </>#6750" height="30" width="40" /></a>
+<a href="https://bento.me/mbviswanadh" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="bento" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
