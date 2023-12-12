@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning     **Few Languages**
 
-- 📫 How to reach me             **madhavareddybalajiviswanadh@gmail.com**
+- 📫 How to reach me             **madhavareddybalajiviswanadh@gmail.com** || **https://bento.me/mbviswanadh**
 
 - ⚡ Fun fact                    **I like to watch both Anime and K-Drama**
 <h3 align="left">Connect with me:</h3>
