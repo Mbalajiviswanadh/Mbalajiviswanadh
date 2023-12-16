@@ -16,7 +16,7 @@
 - 🔗
 <p align="left">
 <a href="https://twitter.com/mb_viswanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mb_viswanadh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/balaji visanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji visanadh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/balaji-viswanadh-875473220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji visanadh" height="30" width="40" /></a>
 <a href="https://instagram.com/mb_viswanadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mb_viswanadh" height="30" width="40" /></a>
 <a href="https://discord.gg/bunty </>#6750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bunty </>#6750" height="30" width="40" /></a>
 <a href="https://bento.me/mbviswanadh" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" alt="bento" height="30" width="40" /></a>
