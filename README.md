@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=9C14E4&background=FCFCFF00&width=450&lines=Hi...%F0%9F%91%8Bthere%2C+balaji++here..;Thank+you+%F0%9F%98%8Afor+visiting+.." alt="Typing SVG" />
 </a>
 
-<h1 align="center">Hi 👋, I'm M.BALAJI VISWANADH</h1>
+<h1 align="center">👋, I'm M.BALAJI VISWANADH</h1>
 <h3 align="center">An enthusiastic learner🤸‍♀️ | Student at VIT-AP | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh" /> </p>
 
