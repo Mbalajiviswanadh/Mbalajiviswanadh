@@ -6,15 +6,30 @@
 
 <h1 align="center">👋, I'm M.BALAJI VISWANADH</h1>
 <h3 align="center">An enthusiastic learner🤸‍♀️ | Student at VIT-AP | CSE AI&ML Major🎓| Intersect in learning Tec-Stuff..📎</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh" /> </p>
 
+# Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh"> </a>
+      </td>
+    </tr>
+  </table>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mbalajiviswanadh&label=Profile%20views&color=0e75b6&style=flat" alt="mbalajiviswanadh" /> </p>
+ -->
+ <hr>
 <p align="left">🔭 I’m currently working on improving my 'Skills'</p>
 <p align="left">🌱 I’m currently learning Few Languages</p>
 <p align="left">📫 How to reach me <a href="mailto:madhavareddybalajiviswanadh@gmail.com">madhavareddybalajiviswanadh@gmail.com</a></p>
 <p align="left">⚡ Fun fact: I like to take pictures</p>
 
-<h3 align="center">Connect with me:</h3>
-
+# Connect with me through.
 <p align="center">
 <a href="https://twitter.com/mb_viswanadh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mb_viswanadh" height="30" width="40" />
@@ -33,7 +48,7 @@
 </a>
 
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
