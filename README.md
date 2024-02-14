@@ -55,8 +55,9 @@
   <!-- Your icons here -->
 </p>
 
+[![viswanadh's github stats](https://bad-apple-github-readme.vercel.app/api?username=mbalajiviswanadh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbalajiviswanadh&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff" alt="mbalajiviswanadh" />
+  <img align="center" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mbalajiviswanadh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="mbalajiviswanadh" />
 </p>
 
 <p align="center">
