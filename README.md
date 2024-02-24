@@ -25,3 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mbalajiviswanadh&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="100" />
+</p>
